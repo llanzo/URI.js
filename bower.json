@@ -1,7 +1,10 @@
 {
   "name": "urijs",
   "version": "1.17.0",
-  "main": "src/URI.js",
+  "main": [
+    "src/URI.js",
+    "jquery.URI.js"
+    ],
   "ignore": [
     ".*",
     "*.css",
